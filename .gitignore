@@ -1,0 +1,4 @@
+build
+*.jpg
+src/adcirc_view.egg-info
+
