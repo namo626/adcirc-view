@@ -21,6 +21,5 @@ license-files = ["LICEN[CS]E*"]
 [project.scripts]
 adcirc-view = "adcirc_view.cli:main"
 
-# [project.urls]
-# Homepage = "https://github.com/pypa/sampleproject"
-# Issues = "https://github.com/pypa/sampleproject/issues"
+[project.urls]
+Homepage = "https://github.com/namo626/adcirc-view"
